@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1066273381812",
+    "firebase_url": "https://fbstorage-fd9ef.firebaseio.com",
+    "project_id": "fbstorage-fd9ef",
+    "storage_bucket": "fbstorage-fd9ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066273381812:android:a1c94f3961cc7dbe",
+        "android_client_info": {
+          "package_name": "com.example.hung.firebasestorage3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066273381812-lm574gkjbr58dm4c6a5a9l676vop0arv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbtuLpRbzIT4_uQjcHZw3IAKfcjQxyaWQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
